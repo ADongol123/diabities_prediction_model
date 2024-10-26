@@ -1,4 +1,4 @@
-# Diabetes Classification Project
+# Diabetes Classification Project Test Accuracy 83%
 
 ## Overview
 This project analyzes the diabetes dataset from Kaggle. The goal is to compare various input features against the outcome of diabetes diagnosis. Visualizations using Matplotlib are employed to provide insights into the data.
